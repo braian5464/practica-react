@@ -1,4 +1,4 @@
-
+import { xd } from "./logo.svg";
 
 function App() {
   return (
